@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:kavyasakthivelsk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://kavya-s-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://www.google.com/s2/favicons?domain=kavya-s-portfolio.netlify.app&sz=64" height="40"/>
   </a>
 </p>
 
@@ -82,16 +82,10 @@ Secure, cloud-based medical record management system built with a privacy-focuse
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-    </td>
-    <td>
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+</p>
 
 <br/>
 
@@ -105,7 +99,7 @@ Secure, cloud-based medical record management system built with a privacy-focuse
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://kavya-s-portfolio.netlify.app">
-    <img src="https://skillicons.dev/icons?i=webstorm"/>
+    <img src="https://www.google.com/s2/favicons?domain=kavya-s-portfolio.netlify.app&sz=64"/>
   </a>
 </p>
 
