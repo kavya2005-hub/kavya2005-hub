@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="260" src="https://skillicons.dev/icons?i=java,spring,react,python,mongodb,aws"/>
+
 
 - 🎓 Final year **B.Tech Information Technology** student
 - 💼 Aspiring **Software Engineer**
