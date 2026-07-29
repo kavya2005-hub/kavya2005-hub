@@ -13,9 +13,7 @@
   <a href="mailto:kavyasakthivelsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://kavya-s-portfolio.netlify.app">
-    <img src="https://www.google.com/s2/favicons?domain=kavya-s-portfolio.netlify.app&sz=64" height="40"/>
-  </a>
+  
 </p>
 
 <p align="center">
@@ -84,7 +82,7 @@ Secure, cloud-based medical record management system built with a privacy-focuse
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+  
 </p>
 
 <br/>
@@ -98,9 +96,7 @@ Secure, cloud-based medical record management system built with a privacy-focuse
   <a href="mailto:kavyasakthivelsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-  <a href="https://kavya-s-portfolio.netlify.app">
-    <img src="https://www.google.com/s2/favicons?domain=kavya-s-portfolio.netlify.app&sz=64"/>
-  </a>
+  
 </p>
 
 <br/>
