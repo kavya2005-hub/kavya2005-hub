@@ -1,142 +1,110 @@
-<h1 align="center">Hi 👋, I'm Kavya S</h1>
+<h1 align="center">Hi there, I'm Kavya S 👋</h1>
 
-<h3 align="center">
-Full Stack Developer | Java | Spring Boot | React | AI Enthusiast
-</h3>
+<h3 align="center">Full Stack Developer | Java · Spring Boot · React | AI Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable web applications and solving real-world problems using modern technologies.
+  Passionate about building scalable web applications and solving real-world problems using modern technologies.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kavya2005-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kavyasakthivelsk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kavya-s-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
-
----
-
-# 👩‍💻 About Me
-
-🎓 Final Year B.Tech Information Technology Student
-
-💼 Aspiring Software Engineer
-
-💻 Passionate Full Stack Developer
-
-🚀 Interested in
-
-- Artificial Intelligence
-- Enterprise Applications
-- Backend Development
-- Cloud Computing
-
-🌱 Currently Learning
-
-- Spring Security
-- Docker
-- AWS
-- Microservices
-
----
-
-# 🛠 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 EnterpriseFlow AI
-
-Multi-Agent Business Automation Platform powered by AI agents for intelligent workflow automation.
-
-### Tech
-
-Spring Boot • React • AI • REST API
-
----
-
-## 🛒 AI Shopping Assistant
-
-AI-powered recommendation engine with product comparison, review summarization and smart suggestions.
-
-### Tech
-
-FastAPI • React • MongoDB • Groq AI
-
----
-
-## 🏥 Medical Vault
-
-Secure cloud-based medical record management system with privacy-focused architecture.
-
-### Tech
-
-Spring Boot • MySQL
-
----
-
-
-# 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night"/>
-
+  <img src="https://komarev.com/ghpvc/?username=kavya2005-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
+<br/>
 
-# 📫 Connect With Me
+## 👩‍💻 About Me
 
+- 🎓 Final Year B.Tech Information Technology student
+- 💼 Aspiring Software Engineer
+- 💻 Passionate Full Stack Developer
+- 🚀 Interested in **Artificial Intelligence**, **Enterprise Applications**, **Backend Development**, and **Cloud Computing**
+- 🌱 Currently learning **Spring Security**, **Docker**, **AWS**, and **Microservices**
+
+<br/>
+
+## 🛠 Tech Stack
+
+**Languages**
 <p>
-
-<a href="www.linkedin.com/in/kavya-s-4838ba307">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="kavyasakthivelsk@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="[https://your-portfolio.com](https://kavya-s-portfolio.netlify.app)">
-<img src="https://skillicons.dev/icons?i=webstorm"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
 </p>
 
----
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,fastapi"/>
+</p>
 
-# 💡 Quote
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-> "Code. Learn. Build. Improve. Repeat."
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+</p>
 
----
+<br/>
+
+## 🚀 Featured Projects
+
+### 🤖 [EnterpriseFlow AI](#)
+Multi-agent business automation platform powered by AI agents for intelligent workflow automation.
+`Spring Boot` `React` `AI` `REST API`
+
+### 🛒 [AI Shopping Assistant](#)
+AI-powered recommendation engine with product comparison, review summarization, and smart suggestions.
+`FastAPI` `React` `MongoDB` `Groq AI`
+
+### 🏥 [Medical Vault](#)
+Secure, cloud-based medical record management system built with a privacy-focused architecture.
+`Spring Boot` `MySQL`
+
+> 💡 Tip: replace the `#` links above with your actual GitHub repository URLs.
+
+<br/>
+
+## 📊 GitHub Activity
 
 <p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories.
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<br/>
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:kavyasakthivelsk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://kavya-s-portfolio.netlify.app">
+    <img src="https://skillicons.dev/icons?i=webstorm"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center"><i>"Code. Learn. Build. Improve. Repeat."</i></p>
+
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
