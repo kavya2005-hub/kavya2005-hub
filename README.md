@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="260" src="https://skillicons.dev/icons?i=java,spring,react,python,mongodb,aws"/>
+
 
 - 🎓 Final year **B.Tech Information Technology** student
 - 💼 Aspiring **Software Engineer**
@@ -139,10 +139,7 @@ Scans food images to identify items and estimate nutritional information using c
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-</p>
+
 
 <br/>
 
