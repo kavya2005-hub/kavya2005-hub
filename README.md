@@ -98,37 +98,6 @@ Spring Boot • MySQL
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kavya2005-hub&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kavya2005-hub&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 # 📊 Contribution Graph
 
@@ -144,15 +113,15 @@ Spring Boot • MySQL
 
 <p>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="www.linkedin.com/in/kavya-s-4838ba307">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="kavyasakthivelsk@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://your-portfolio.com">
+<a href="[https://your-portfolio.com](https://kavya-s-portfolio.netlify.app)">
 <img src="https://skillicons.dev/icons?i=webstorm"/>
 </a>
 
