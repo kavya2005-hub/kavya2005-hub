@@ -22,7 +22,7 @@
 
 ## 👩‍💻 About Me
 
-
+<img align="right" width="260" src="https://skillicons.dev/icons?i=java,spring,react,python,mongodb,aws"/>
 
 - 🎓 Final year **B.Tech Information Technology** student
 - 💼 Aspiring **Software Engineer**
@@ -66,20 +66,10 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 EnterpriseFlow AI
-Multi-agent business automation platform powered by AI agents for intelligent workflow automation.
+### 🌾 CropXpert
+AI-driven crop recommendation and farming assistant that helps farmers choose the right crop based on soil and climate data.
 
-`Spring Boot` `React` `AI` `REST API`
-
-[🔗 View Repo](#)
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 AI Shopping Assistant
-AI-powered recommendation engine with product comparison, review summarization, and smart suggestions.
-
-`FastAPI` `React` `MongoDB` `Groq AI`
+`Python` `AI/ML` `React` `REST API`
 
 [🔗 View Repo](#)
 
@@ -94,10 +84,52 @@ Secure, cloud-based medical record management system built with a privacy-focuse
 [🔗 View Repo](#)
 
 </td>
+<td width="33%" valign="top">
+
+### 📦 Inventory Management System
+End-to-end system for tracking stock levels, orders, and warehouse operations in real time.
+
+`Spring Boot` `React` `MySQL`
+
+[🔗 View Repo](#)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 Shopping Agent AI
+AI-powered shopping agent with product comparison, review summarization, and smart recommendations.
+
+`FastAPI` `React` `MongoDB` `Groq AI`
+
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔗 URL Prediction
+Machine learning model that analyzes URLs to predict and flag potentially malicious or unsafe links.
+
+`Python` `Machine Learning` `Flask`
+
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 🍎 AI Food Scanner
+Scans food images to identify items and estimate nutritional information using computer vision.
+
+`Python` `AI/ML` `React` `Computer Vision`
+
+[🔗 View Repo](#)
+
+</td>
 </tr>
 </table>
 
-> 💡 Replace the `#` links above with your actual GitHub repository URLs.
+> 💡 Replace the `#` links above with your actual GitHub repository URLs, and tweak the tech tags if I guessed a stack wrong.
 
 <br/>
 
@@ -107,7 +139,10 @@ Secure, cloud-based medical record management system built with a privacy-focuse
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+</p>
 
 <br/>
 
