@@ -79,13 +79,19 @@ Secure, cloud-based medical record management system built with a privacy-focuse
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    </td>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
