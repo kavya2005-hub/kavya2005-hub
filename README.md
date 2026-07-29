@@ -1,76 +1,103 @@
-<h1 align="center">Hi there, I'm Kavya S 👋</h1>
-
-<h3 align="center">Full Stack Developer | Java · Spring Boot · React | AI Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=Hi%20there,%20I'm%20Kavya%20S%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  Passionate about building scalable web applications and solving real-world problems using modern technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;Solving+real-world+problems+with+code;Exploring+AI-powered+systems;Java+%7C+Spring+Boot+%7C+React+%7C+AI"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:kavyasakthivelsk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavya2005-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge"/>
 </p>
 
 <br/>
 
 ## 👩‍💻 About Me
 
-- 🎓 Final Year B.Tech Information Technology student
-- 💼 Aspiring Software Engineer
-- 💻 Passionate Full Stack Developer
-- 🚀 Interested in **Artificial Intelligence**, **Enterprise Applications**, **Backend Development**, and **Cloud Computing**
-- 🌱 Currently learning **Spring Security**, **Docker**, **AWS**, and **Microservices**
+<img align="right" width="260" src="https://skillicons.dev/icons?i=java,spring,react,python,mongodb,aws"/>
 
-<br/>
+- 🎓 Final year **B.Tech Information Technology** student
+- 💼 Aspiring **Software Engineer**
+- 💻 Passionate **Full Stack Developer**
+- 🚀 Focused on **AI**, **Enterprise Applications**, **Backend Development** & **Cloud Computing**
+- 🌱 Currently deepening my skills in **Spring Security**, **Docker**, **AWS**, and **Microservices**
+- ⚡ Fun fact: I enjoy turning complex problems into clean, simple systems
+
+<br clear="right"/>
 
 ## 🛠 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/></p>
 
 **Frameworks & Libraries**
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,fastapi"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=spring,react,nodejs,fastapi"/></p>
+
+</td>
+<td valign="top" width="50%">
 
 **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=mysql,mongodb"/></p>
 
 **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/></p>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🚀 Featured Projects
 
-### 🤖 [EnterpriseFlow AI](#)
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 EnterpriseFlow AI
 Multi-agent business automation platform powered by AI agents for intelligent workflow automation.
+
 `Spring Boot` `React` `AI` `REST API`
 
-### 🛒 [AI Shopping Assistant](#)
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛒 AI Shopping Assistant
 AI-powered recommendation engine with product comparison, review summarization, and smart suggestions.
+
 `FastAPI` `React` `MongoDB` `Groq AI`
 
-### 🏥 [Medical Vault](#)
+[🔗 View Repo](#)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 Medical Vault
 Secure, cloud-based medical record management system built with a privacy-focused architecture.
+
 `Spring Boot` `MySQL`
 
-> 💡 Tip: replace the `#` links above with your actual GitHub repository URLs.
+[🔗 View Repo](#)
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the `#` links above with your actual GitHub repository URLs.
 
 <br/>
 
@@ -80,24 +107,27 @@ Secure, cloud-based medical record management system built with a privacy-focuse
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavya2005-hub&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya2005-hub&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+</p>
 
 <br/>
 
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:kavyasakthivelsk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-  
 </p>
 
 <br/>
 
 <p align="center"><i>"Code. Learn. Build. Improve. Repeat."</i></p>
-
 <p align="center">⭐ If you like my work, consider starring my repositories!</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer"/>
