@@ -71,7 +71,7 @@ AI-driven crop recommendation and farming assistant that helps farmers choose th
 
 `Python` `AI/ML` `React` `REST API`
 
-[🔗 View Repo](#)
+
 
 </td>
 <td width="33%" valign="top">
@@ -81,7 +81,7 @@ Secure, cloud-based medical record management system built with a privacy-focuse
 
 `Spring Boot` `MySQL`
 
-[🔗 View Repo](#)
+
 
 </td>
 <td width="33%" valign="top">
@@ -91,7 +91,7 @@ End-to-end system for tracking stock levels, orders, and warehouse operations in
 
 `Spring Boot` `React` `MySQL`
 
-[🔗 View Repo](#)
+
 
 </td>
 </tr>
@@ -103,7 +103,7 @@ AI-powered shopping agent with product comparison, review summarization, and sma
 
 `FastAPI` `React` `MongoDB` `Groq AI`
 
-[🔗 View Repo](#)
+
 
 </td>
 <td width="33%" valign="top">
@@ -113,7 +113,7 @@ Machine learning model that analyzes URLs to predict and flag potentially malici
 
 `Python` `Machine Learning` `Flask`
 
-[🔗 View Repo](#)
+
 
 </td>
 <td width="33%" valign="top">
@@ -123,7 +123,7 @@ Scans food images to identify items and estimate nutritional information using c
 
 `Python` `AI/ML` `React` `Computer Vision`
 
-[🔗 View Repo](#)
+
 
 </td>
 </tr>
