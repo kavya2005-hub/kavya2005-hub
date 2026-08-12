@@ -8,33 +8,33 @@
 
 <p align="center">
   I practice coding consistently to strengthen my problem-solving skills,
-  programming fundamentals, and understanding of Data Structures & Algorithms.
+  programming fundamentals, and Data Structures & Algorithms knowledge.
 </p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 What I Practice
+### 🧠 Areas I Practice
 
-- Data Structures & Algorithms
 - Arrays & Strings
-- Linked Lists
+- Searching & Sorting
 - Stack & Queue
+- Linked List
 - Binary Trees & BST
 - Recursion & Backtracking
-- Searching & Sorting
 - Hashing
 - Sliding Window
 - Prefix Sum
-- SQL & Database Problems
-- LeetCode & GeeksforGeeks Problems
+- SQL Problems
+- LeetCode Problems
+- GeeksforGeeks Problems
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 My Practice Approach
+### 🎯 My Approach
 
 ```text
 Understand
