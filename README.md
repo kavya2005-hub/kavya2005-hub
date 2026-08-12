@@ -156,4 +156,4 @@ Scans food images to identify items and estimate nutritional information using c
 \<p align="center">\<i>"Code. Learn. Build. Improve. Repeat."\</i>\</p>
 \<p align="center">⭐ If you like my work, consider starring my repositories!\</p>
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:6dd5ed,100:0e75b6\&height=100\&section=footer)"/> intha readme la enaku anth gihhub link sethi add pani daily coding practice impressive ah kaami
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:0e75b6&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:6dd5ed,100:0e75b6\&height=100\&section=footer)"/> 
