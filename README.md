@@ -166,13 +166,6 @@ Review
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya2005-hub&theme=tokyonight&hide_border=true"/>
-</p>
-
-> 💡 Replace the daily-coding-practice repo link above with your actual repository URL so visitors can see your solved problems directly.
-
-<br/>
 
 
 <p align="center"><i>"Code. Learn. Build. Improve. Repeat."</i></p>
