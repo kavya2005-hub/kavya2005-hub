@@ -126,7 +126,7 @@ Scans food images to identify items and estimate nutritional information using c
 </p>
 
 <p align="center">
-  <a href="https://github.com/kavya2005-hub/daily-coding-practice">
+  <a href="#">
     <img src="https://img.shields.io/badge/📂_View_Daily_Practice_Repo-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -171,7 +171,21 @@ Review
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavya2005-hub&theme=tokyonight&hide_border=true"/>
+</p>
 
+> 💡 Replace the daily-coding-practice repo link above with your actual repository URL so visitors can see your solved problems directly.
+
+<br/>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<br/>
 
 ## 📫 Connect With Me
 
