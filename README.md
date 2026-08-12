@@ -125,11 +125,6 @@ Scans food images to identify items and estimate nutritional information using c
   programming fundamentals, and Data Structures & Algorithms knowledge.
 </p>
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/📂_View_Daily_Practice_Repo-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
 <table>
 <tr>
@@ -179,26 +174,6 @@ Review
 
 <br/>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kavya2005-hub&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<br/>
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavya-s-4838ba307">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:kavyasakthivelsk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-</p>
-
-<br/>
 
 <p align="center"><i>"Code. Learn. Build. Improve. Repeat."</i></p>
 <p align="center">⭐ If you like my work, consider starring my repositories!</p>
